@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "437334847048",
+    "firebase_url": "https://womensec-9dc5e.firebaseio.com",
+    "project_id": "womensec-9dc5e",
+    "storage_bucket": "womensec-9dc5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437334847048:android:d0f38f2bd9485ecf",
+        "android_client_info": {
+          "package_name": "com.example.chandanasrinivas.womensec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437334847048-0aqjssur0p2758p7747728bqh2ca2p2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chandanasrinivas.womensec",
+            "certificate_hash": "2f27c1e6880e8380619a7bca384e949cff851e59"
+          }
+        },
+        {
+          "client_id": "437334847048-g0dajvkm42hqqb6ej41dh4c6a1selres.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhByjqPgZ6i4KU8KiPKhN1p6mRZDmbRZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437334847048-g0dajvkm42hqqb6ej41dh4c6a1selres.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
